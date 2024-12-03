@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Coriolis-Roulette/static/css/main.9cfc6048.css",
+    "main.js": "/Coriolis-Roulette/static/js/main.5ff7b0e4.js",
+    "static/js/453.b84bb374.chunk.js": "/Coriolis-Roulette/static/js/453.b84bb374.chunk.js",
+    "index.html": "/Coriolis-Roulette/index.html",
+    "main.9cfc6048.css.map": "/Coriolis-Roulette/static/css/main.9cfc6048.css.map",
+    "main.5ff7b0e4.js.map": "/Coriolis-Roulette/static/js/main.5ff7b0e4.js.map",
+    "453.b84bb374.chunk.js.map": "/Coriolis-Roulette/static/js/453.b84bb374.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cfc6048.css",
+    "static/js/main.5ff7b0e4.js"
+  ]
+}
