@@ -140,7 +140,7 @@ const App = () => {
             <h2>Bravo,vous avez gagné {result} !</h2>
             <p>
               Rendez-vous dans votre agence Coriolis pour récupérer le cadeau
-              via le code suivant :
+              via le code suivant:
             </p>
             <h3>{code}</h3>
           </div>
